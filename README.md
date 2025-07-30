@@ -55,4 +55,13 @@ g++ -o MathQuizGame MathQuizGame.cpp
 <img width="958" height="474" alt="image" src="https://github.com/user-attachments/assets/cb4e90a8-2cf6-4513-8ae4-45a01459c2ae" />
 
 
+## 👨‍💻 Author
 
+**Ahmed Al-Wazir**  
+📬 [GitHub Profile](https://github.com/DEADCODE0O)
+
+---
+
+## 📜 License
+
+This project is licensed for educational and personal use. Commercial use or redistribution without permission is not allowed.
